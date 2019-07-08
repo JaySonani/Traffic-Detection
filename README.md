@@ -1,8 +1,8 @@
 # Traffic Detection
 
 ### OpenCV | Python
-  - Using OpenCV library, amount of color of road has been calculated and based on that, traffic percentage is displayed.
-Run main2.py
+  - Using OpenCV library, amount of color of road has been calculated and based on that, traffic percentage is displayed of selected green area.
+  - For execution, run main2.py
 
 ### Screenshots
 
